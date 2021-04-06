@@ -10,6 +10,7 @@ int z=0;
 double k,m,op1,op2;
 double d=1;
 k = 0;
+m = 0;
 c = 0;
 struct Operand *st_v = createstackopd(100);
             printf("Enter the trouble_v\n");

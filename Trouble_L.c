@@ -12,6 +12,7 @@ double k,m,op1,op2;
 double d=1;
 k = 0;
 c = 0;
+m = 0;
 struct myStack *st = create_stack();
         s = get_str();
             printf("Enter the trouble\n");
